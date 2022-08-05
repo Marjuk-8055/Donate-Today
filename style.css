@@ -1,0 +1,227 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin-top: 0%;
+}
+
+.bg-img {
+    background-image: url(images/donation13.jpg);
+    background-size: 100%;
+    color: white;
+    height: 100vh;
+    margin-top: 0%;
+    background-repeat: no-repeat;
+}
+
+.bg-img h1 {
+    text-align: center;
+    padding-top: 15%;
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    margin: 0% 25%;
+}
+
+.bg-img p {
+    text-align: center;
+    margin: 0% 30%;
+    padding-top: 2%;
+    font-weight: 500;
+}
+
+.link-button {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    background-image: linear-gradient(orangered, tomato);
+    color: white;
+    width: max-content;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin-left: 45%;
+    margin-top: 5%;
+    font-weight: 600;
+
+
+}
+
+.Donate {
+    text-align: center;
+    margin: 10% 25% 0% 25%;
+
+}
+
+.Donate h1 {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.Donate p {
+    color: gray;
+}
+
+.donation-amount h1 {
+    display: inline;
+    padding: 10px 30px;
+    font-size: 40px;
+
+}
+
+.donation-amount {
+    margin: 0% 15%;
+    margin-top: 5%;
+    color: gray;
+    margin-bottom: 10%;
+}
+
+#selected-amount {
+    background-color: rgba(255, 68, 0, 0.301);
+    border: 1px solid orangered;
+    border-radius: 10px;
+    padding: 40px 20px;
+}
+
+#style-amount {
+    border: none;
+    border-bottom: 1px solid grey;
+    margin: 0% 30%;
+    text-align: center;
+    padding: 10px;
+    color: grey;
+}
+
+#Button {
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.food {
+    background-color: rgba(255, 192, 203, 0.466);
+    padding: 20px 15px;
+    width: 50%;
+    margin: 10px;
+}
+
+.shelter {
+    background-color: rgba(193, 192, 255, 0.452);
+    padding: 20px 15px;
+    width: 50%;
+    margin: 10px;
+
+}
+
+.education {
+    background-color: rgba(93, 241, 150, 0.425);
+
+    padding: 20px 15px;
+    width: 50%;
+    margin: 10px;
+
+
+
+}
+
+.flexible {
+    display: flex;
+    margin: 5% 5%;
+}
+
+.container {
+    display: flex;
+    margin: 10%;
+}
+
+.half-width {
+    width: 50%;
+    margin: 0% 2%;
+    color: grey;
+
+}
+
+.half-width img {
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+.half-width h1 {
+    font-size: 45px;
+    color: black;
+}
+
+.link-button-two {
+    display: block;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    background-image: linear-gradient(orangered, tomato);
+    width: max-content;
+    padding: 15px 35px;
+    border-radius: 10px;
+
+    font-weight: 600;
+}
+
+.updates {
+    text-align: center;
+    margin-bottom: 5%;
+
+}
+
+.updates h1 {
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.email-box {
+    text-decoration: solid;
+    color: white;
+    background-image: linear-gradient(grey, grey);
+    width: 40px;
+    padding: 10px 50% 10px 10px;
+    width: 10%;
+    margin-left: 50%;
+
+}
+
+.link-button-last {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    background-image: linear-gradient(orangered, tomato);
+    padding: 10px 30px;
+    width: max-content;
+    margin-right: 60%;
+
+
+}
+
+.last-flex {
+    display: flex;
+    text-align: center;
+    border: 90px solid wheat;
+    height: 0px;
+    margin: 0% 15% 5% 15%;
+
+}
+
+.again-half {
+    width: 50%;
+
+
+}
+
+footer h1 {
+    font-family: 'Pacifico', cursive;
+    color: rgb(245, 63, 63);
+
+}
+
+footer {
+    background-color: rgb(22, 22, 41);
+    text-align: center;
+    padding-bottom: 20px;
+    color: white;
+}
